@@ -49,8 +49,8 @@
 
 ## 📫 Let's Connect!
 
-- **Email:** [guvenchemy@gmail.com](mailto:guvenchemy@gmail.com)
-- **LinkedIn:** [linkedin.com/in/guvenchemy](https://www.linkedin.com/in/guvenchemy)
+- **Email:** [guvenchemy@gmail.com](mailto:yilmazguven247@gmail.com)
+- **LinkedIn:** [linkedin.com/in/guvenchemy](https://www.linkedin.com/in/güven-yılmaz-a622ba285)
 - **GitHub:** [github.com/guvenchemy](https://github.com/guvenchemy)
 
 ---
