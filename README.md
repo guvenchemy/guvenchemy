@@ -54,5 +54,4 @@
 - **GitHub:** [github.com/guvenchemy](https://github.com/guvenchemy)
 
 ---
-
 > “Keep learning, keep building, and turn your ideas into reality!”
