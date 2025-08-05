@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Güven
+
 
 **🎓 Management Information Systems Student at Gazi University**  
 **💻 Software Developer | Automation & Desktop Applications Enthusiast**
